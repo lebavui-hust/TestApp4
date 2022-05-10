@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_paste"
+        android:icon="@drawable/ic_baseline_content_paste_24"
+        android:orderInCategory="140"
+        android:title="Paste" />
+    <item
+        android:id="@+id/action_copy"
+        android:icon="@drawable/ic_baseline_content_copy_24"
+        android:orderInCategory="100"
+        android:title="Copy" />
+    <item
+        android:id="@+id/action_cut"
+        android:icon="@drawable/ic_baseline_content_cut_24"
+        android:orderInCategory="120"
+        android:title="Cut" />
+</menu>
